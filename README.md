@@ -2,7 +2,7 @@
 
 💻 Cloud & DevOps Engineer
 ☁️ Building scalable systems on AWS
-⚡ Automating deployments | CI/CD | Containers
+⚡ CI/CD | Docker | Automation
 
 ---
 
@@ -19,16 +19,20 @@
 
 ### ☁️ Cloud & DevOps
 
-* AWS (EC2, S3, IAM)
-* Docker
-* GitHub Actions
-* Nginx
-* Linux
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge\&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-WebServer-green?style=for-the-badge\&logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge\&logo=linux)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-purple?style=for-the-badge\&logo=githubactions)
 
 ### 💻 Development
 
-* Next.js
-* Node.js
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge\&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge\&logo=node.js)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge\&logo=git)
 
 ---
 
@@ -54,18 +58,18 @@
 
 ---
 
-## 🧠 Current Focus
+## 🚀 Extras
 
-* Infrastructure as Code (Terraform)
-* Monitoring (Prometheus + Grafana)
-* Advanced CI/CD pipelines
+![Profile Views](https://komarev.com/ghpvc/?username=JANA-GOPAL\&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/JANA-GOPAL?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/JANA-GOPAL?style=for-the-badge)
 
 ---
 
 ## 📫 Connect
 
-* LinkedIn: www.linkedin.com/in/jana-gopal
-* Email: jana.gopalk@gmail.com
+* LinkedIn: (add your link)
+* Email: (add your email)
 
 ---
 
