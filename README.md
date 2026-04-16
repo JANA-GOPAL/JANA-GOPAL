@@ -68,8 +68,8 @@
 
 ## 📫 Connect
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+* LinkedIn: www.linkedin.com/in/jana-gopal
+* Email: jana.gopalk@gmail.com
 
 ---
 
